@@ -1,0 +1,1 @@
+La differenza principale tra la scansione SYN e la scansione TCP connect è che quest'ultima stabilisce una connessione TCP completa con l'host remoto per determinare lo stato della porta, invece di inviare solo un pacchetto SYN come avviene nella scansione SYN.
